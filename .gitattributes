@@ -1,8 +1,0 @@
-# Ignore markdown from language stats
-*.md linguist-detectable=false
-
-# Ignore generated files (if any)
-*.log linguist-generated=true
-
-# Force shell detection
-*.sh linguist-language=Shell
